@@ -1,1 +1,5 @@
-#MEAN-Stack-With-Angular-2-Tutorial
+Stack Mean (Mongo, Express, Angular y Node.js) para aplicación Fullstack(Frontend+Backend)
+
+Proyecto en desarrollo
+
+
